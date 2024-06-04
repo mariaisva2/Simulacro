@@ -1,0 +1,1 @@
+export * from "./not-found.page"; // exporto, luego voy a routes para exportarla en public
